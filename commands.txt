@@ -1,0 +1,13 @@
+ls,mkdir,rmdir,nano,touch,rm,pwd,cp,cat
+
+grep -r 'pattern_to_match' directory_to_search
+
+kill -9 3827
+
+ls -la,
+ls /proc/1
+
+list process => ps aux | less
+(here pipe meanes sequence eg. first aux and than less)
+
+mv file1.txt file2.txt (for dir also)
